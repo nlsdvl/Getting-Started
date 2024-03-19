@@ -25,15 +25,29 @@ nav_order: 0
 <td style="text-align: left;">MPEG_anchor</td>
 <td style="text-align: left;">anchors</td>
 <td style="text-align: left;">M</td>
-<td style="text-align: left;">&#x2610;</td>
-<td style="text-align: left;">&#x2610;</td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
 </tr>
 <tr>
 <td style="text-align: left;">MPEG_anchor</td>
 <td style="text-align: left;">trackable</td>
 <td style="text-align: left;">M</td>
-<td style="text-align: left;">&#x2610;</td>
-<td style="text-align: left;">&#x2610;</td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
+</tr>
+<tr>
+<td style="text-align: left;">MPEG_anchor.trackable</td>
+<td style="text-align: left;">TRACKABLE_FLOOR</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
+</tr>
+<tr>
+<td style="text-align: left;">MPEG_anchor.trackable</td>
+<td style="text-align: left;">TRACKABLE_VIEWER</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
 </tr>
 <tr>
 <td style="text-align: left;">MPEG_anchor.trackable</td>
@@ -43,18 +57,18 @@ nav_order: 0
 <td style="text-align: left;">&#x2610;</td>
 </tr>
 <tr>
+<td style="text-align: left;">MPEG_anchor.trackable</td>
+<td style="text-align: left;">TRACKABLE_PLANE</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">TRACKABLE_GEOMETRIC</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">&#x2610;</td>
-<td style="text-align: left;">&#x2610;</td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
 </tr>
 <tr>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">TRACKABLE_MARKER_2D</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">&#x2610;</td>
-<td style="text-align: left;">&#x2610;</td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
 </tr>
 <tr>
 <td style="text-align: left;"></td>
@@ -67,22 +81,15 @@ nav_order: 0
 <td style="text-align: left;"></td>
 <td style="text-align: left;">TRACKABLE_MARKER_GEO</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">&#x2610;</td>
-<td style="text-align: left;">&#x2610;</td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
 </tr>
 <tr>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">TRACKABLE_APPLICATION</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">&#x2610;</td>
-<td style="text-align: left;">&#x2610;</td>
-</tr>
-<tr>
-<td style="text-align: left;">MPEG_anchor</td>
-<td style="text-align: left;">anchors</td>
-<td style="text-align: left;">M</td>
-<td style="text-align: left;">&#x2610;</td>
-<td style="text-align: left;">&#x2610;</td>
+<td style="text-align: left;">&#x2611;</td>
+<td style="text-align: left;">&#x2611;</td>
 </tr>
 </tbody>
 </table>
